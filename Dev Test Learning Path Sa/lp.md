@@ -1,9 +1,10 @@
 title: Dev Test Learning Path Sa
 description: Lets learn how to build a web application with Flask.
-scenarios: []
+scenarios: 
+  - Dev Test Scenario Sa
 isPremium: false
 isAvailable: true
-scenarioCount: 0
+scenarioCount: 1
 isNew: true
 categories: 
   - golang
