@@ -1,10 +1,9 @@
 title: Dev Test Learning Path Sa
 description: Lets learn how to build a web application with Flask.
-scenarios: 
-  - Sa Dev Scenario 1
+scenarios: []
 isPremium: true
 isAvailable: true
-scenarioCount: 1
+scenarioCount: 0
 isNew: true
 categories: 
   - docker
